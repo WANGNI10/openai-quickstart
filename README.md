@@ -1,3 +1,14 @@
+# homework
+## homework-01
+1. [GPT-4V ](https://github.com/WANGNI10/openai-quickstart/blob/202407/openai_api/gpt-4v.ipynb) 
+2. [ai translator](https://github.com/WANGNI10/openai-quickstart/tree/202407/openai-translator)
+![img_1.png](img_1.png)   
+![img_2.png](img_2.png)
+3. [langchan chains](https://github.com/WANGNI10/openai-quickstart/blob/202407/langchain/jupyter/chains/router_chain.ipynb)
+
+## homework-02
+1. [sales chatbot](https://github.com/WANGNI10/openai-quickstart/tree/202407/langchain/jewel_sales_chatbot)
+![img.png](img.png)
 # OpenAI 快速入门
 
 <p align="center">
